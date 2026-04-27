@@ -5,12 +5,16 @@ publisher,Publisher,
 contributor,Contributor
 date,Date Created,
 description,Description,
+alttext, Alt Text
 subject,Subjects,true
+audience, Audience
 location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
+filesize, File Size
+filename, File Name
 type,Type,
 format,Format,
 rights,Rights,
