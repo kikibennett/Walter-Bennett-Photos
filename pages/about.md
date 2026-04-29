@@ -8,9 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid=photo4 %}
+{% include feature/jumbotron.html objectid="photo4" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About Walter Bennett" %}
 
 ## About the Collection
 
@@ -24,10 +24,5 @@ Walter Bennett was born on June 1st, 1926 in Sioux City Iowa. From 1950 to 1952 
 After returning home from his military service, Walter married Marilyn Meeves in January 1953. The couple settled in Richland, South Dakota, where they began raising their family. Together, Walter and Marilyn had four children: Scott, Tari, Steve, and Stuart.
 Walter Bennett passed away surrounded by family and loved ones on September 11th, 2009.
 
-
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 
