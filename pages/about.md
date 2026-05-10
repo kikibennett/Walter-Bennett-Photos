@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="photo14" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About Walter Bennett" %}
+{% include feature/nav-menu.html sections="About the Collection;About Walter Bennett;Additional Details About this Collection" %}
 
 ## About the Collection
 
